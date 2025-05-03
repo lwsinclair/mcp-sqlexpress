@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hanweg-mcp-sqlexpress-badge.png)](https://mseep.ai/app/hanweg-mcp-sqlexpress)
+
 # SQL Server Express MCP Server
 
 An MCP server for interacting with Microsoft SQL Server Express. Supports Windows and SQL Server authentication.
